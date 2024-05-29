@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Puri Goswami</h1>
-<h3 align="center">I am BCA 2bd Year Student</h3>
+<h3 align="center">I am BCA Student</h3>
 
 - 🔭 I’m complete working on [Netflix Clone](https://drive.google.com/drive/folders/1KhXTF1ETKFsh3nZKy9Fxqe5BXT4hpZJl?usp=drive_link)
 
